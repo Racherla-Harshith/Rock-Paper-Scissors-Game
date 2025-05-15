@@ -28,4 +28,4 @@ A simple console-based Rock-Paper-Scissors game written in Java.
 
 ## Author
 
-Created by [Your Name]
+Created by [Harshith]
